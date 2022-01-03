@@ -1,0 +1,20 @@
+{
+    "name":"Sulochana Eranda On-Page SEO",
+    "description":"Blogger On-Page SEO Plugin Developed by sulochanaeranda",
+    "version":"1.1",
+    "manifest_version": 2,
+    "content_scripts":[
+        {
+			
+			"matches":["https://www.blogger.com/*"],
+			//"matches":["<all_urls>"],
+			
+            "js":["content.js"]
+        }
+    ],
+    "browser_action":{
+        "default_icon":"1.png"
+       // "default_popup":"popup.html",
+       // "default_title":"demo luka"
+    }
+}
