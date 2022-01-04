@@ -1,5 +1,5 @@
-# Sulochana-Eranda-SEO-Plugin
-Sulochana Eranda on page  SEO plugin is a Chrome Extension.
+# Sevek SEO extension for Blogger
+ Sevek SEO extension on page SEO plugin is a Chrome Extension.
 
 ![image](https://camo.githubusercontent.com/2bc58bb9e11624f113a08f263d59129f9911a18861d6286f7aee7adaefb440d4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d73756c6f6368616e616572616e6461267468656d653d6461726b2673686f775f69636f6e733d74727565)
 
